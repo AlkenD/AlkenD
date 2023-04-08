@@ -10,4 +10,4 @@
 
 ## Contact me through
 
-<img src="https://static-00.iconduck.com/assets.00/telegram-icon-512x512-1v2t4c2x.png"  width="10" height="10"> @AlkenDester
+<img src="https://static-00.iconduck.com/assets.00/telegram-icon-512x512-1v2t4c2x.png"  width="30" height="30"> @AlkenDester
