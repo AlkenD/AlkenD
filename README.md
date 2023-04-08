@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on Dester
 - 🌱 I’m currently learning React Native, Svelte
 
-Building some side projects for fun. Check out my portfolio site for the projects i'm working on and worked on.
+#### Building some side projects for fun. Check out my portfolio site for the projects i'm working on and worked on.
