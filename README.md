@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alken Dester
+# Hi 👋, I'm Yeshwanth.B AKA Alken Dester
 ### A passionate 20 year old frontend developer and designer from India
 
 🔭 I’m currently working on AwePlayer & DesterLib<br>🌱 I’m currently learning Postgresql & Next.js 13 (app router)<br>👨‍💻 All of my projects are available at [http://alken.dester.in](http://alken.dester.in)<br>💬 Ask me about react.js, sveltekit, tailwindcss, css & astro.js<br>⚡ Fun fact - I major in commerce
