@@ -1,6 +1,8 @@
 # Hi 👋, I'm Yeshwanth.B AKA Alken Dester
 ### A passionate 20 year old frontend developer and designer from India
 
+[![](https://visitcount.itsvg.in/api?id=AlkenD&icon=0&color=6)](https://visitcount.itsvg.in)
+
 🔭 I’m currently working on AwePlayer & DesterLib<br>🌱 I’m currently learning Postgresql & Next.js 13 (app router)<br>👨‍💻 All of my projects are available at [http://alken.dester.in](http://alken.dester.in)<br>💬 Ask me about react.js, sveltekit, tailwindcss, css & astro.js<br>⚡ Fun fact - I major in commerce
 
 
@@ -15,10 +17,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AlkenD&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlkenD&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yeshwanth87) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yeshwanth87) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
